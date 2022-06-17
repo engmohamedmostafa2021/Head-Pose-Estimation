@@ -17,14 +17,12 @@ Head Pose estimation is a computer vision technique to track the movements of a 
     - 2. Loading Data. 
     - 3. Preparing the data for Training.
     - 4. Prpcessing the Data.
-    - 5. Applying Cross Validation.
-    - 6. Splitting the data for training the model and validation.
-    - 7. GridSearch for XGBoostRegressor and SVR models.
-    - 8. Defining function for drawing the 3 axis.
-    - 9. Visualing Random image and drawing its points and axis.
-    - 10. Drawing the axis from the true labels on the image.
-    - 11. Testing the model on the image.
-    - 12. Testing the model on a video by processing its frames and drawing the axis on them.
+    - 5. Splitting the data for training the model and validation.
+    - 6. GridSearch for XGBoostRegressor and SVR models.
+    - 7. Defining function for drawing the 3 axis.
+    - 8. Drawing the axis from the true labels on the image.
+    - 9. Testing the model on the image.
+    - 10. Testing the model on a video by processing its frames and drawing the axis on them.
 
 ## 🛠 Skills
 Deep Learning, Computer Vision, Python, TensorFlow, OpenCV...
